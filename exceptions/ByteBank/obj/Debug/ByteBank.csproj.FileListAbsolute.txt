@@ -1,0 +1,7 @@
+C:\Users\CENTI\Desktop\C#\exceptions\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\CENTI\Desktop\C#\exceptions\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\CENTI\Desktop\C#\exceptions\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\CENTI\Desktop\C#\exceptions\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\CENTI\Desktop\C#\exceptions\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\CENTI\Desktop\C#\exceptions\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\CENTI\Desktop\C#\exceptions\ByteBank\obj\Debug\ByteBank.pdb
